@@ -1,2 +1,2 @@
 # SongCrud
-A simple song app created with Django
+A simple song app created with Django .
